@@ -1,0 +1,7 @@
+c:\users\jjflo\source\repos\DateDifference\DateDifference\obj\Debug\DateDifference.csprojResolveAssemblyReference.cache
+c:\users\jjflo\source\repos\DateDifference\DateDifference\obj\Debug\DateDifference.csproj.CoreCompileInputs.cache
+C:\Users\jjflo\source\repos\DateDifference\DateDifference\bin\Debug\DateDifference.exe.config
+C:\Users\jjflo\source\repos\DateDifference\DateDifference\bin\Debug\DateDifference.exe
+C:\Users\jjflo\source\repos\DateDifference\DateDifference\bin\Debug\DateDifference.pdb
+C:\Users\jjflo\source\repos\DateDifference\DateDifference\obj\Debug\DateDifference.exe
+C:\Users\jjflo\source\repos\DateDifference\DateDifference\obj\Debug\DateDifference.pdb
